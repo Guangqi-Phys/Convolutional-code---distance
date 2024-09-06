@@ -1,1 +1,1 @@
-This is a program for calculating the distance of a given classical convolution code.
+For calculating the distance of a given classical convolutional code.
